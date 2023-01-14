@@ -22,3 +22,7 @@ function ko() {
     var c = parseInt(a) + parseInt(h);
     document.getElementById("kkk").innerHTML = c;
 }
+
+function rf() {
+    window.location.href = "index.html";
+}
